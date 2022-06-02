@@ -1,0 +1,8 @@
+register_leaf("red","Red","#ff2b2b", "dye:red")
+register_leaf("orange","Orange","#ff630f", "dye:orange")
+register_leaf("blue","Blue","#1ca0ff", "dye:blue")
+register_leaf("cyan","Cyan","#1cffd5", "dye:cyan")
+register_leaf("purple","Purple","#ab18f5", "dye:violet")
+register_leaf("pink","Pink","#ff36b2", "dye:pink")
+register_leaf("lime","Lime","#b0f70a", "dye:green")
+register_leaf("white","White","#ffffff", "dye:white", true, false)
